@@ -138,5 +138,11 @@ local skids = {
 ["dantdm704"] = "jjsploit normal";
 ["Tousenek"] = "half ass jjsploit shit";
 ["IAmBrainDe4d"] = "bang script speed and one punch";
+["Bahssix"] = "speed + one punch + toxic as fuck";
+["im_testinghaxs"] = "pulling out jjsploit";
+["Faizan_hashim"] = "krnl go boom, bullied by chaotic";
+["FlyingKitty_VV"] = "wall walking";
+["IMadeBrilliantGames"] = "reanimation";
+["AgentVMC146"] = "jjsploit flight";
 }
 return skids
