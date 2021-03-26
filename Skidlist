@@ -146,5 +146,6 @@ local skids = {
 ["AgentVMC146"] = "jjsploit flight";
 ["khanas08"] = "patched gunmods, skid neutral";
 ["BarneyDaBear"] = "skiddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddy";
+["HECCrr"] = "pb";
 }
 return skids
