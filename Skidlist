@@ -144,5 +144,7 @@ local skids = {
 ["FlyingKitty_VV"] = "wall walking";
 ["IMadeBrilliantGames"] = "reanimation";
 ["AgentVMC146"] = "jjsploit flight";
+["khanas08"] = "patched gunmods, skid neutral";
+["BarneyDaBear"] = "skiddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddy";
 }
 return skids
