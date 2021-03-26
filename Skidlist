@@ -135,5 +135,6 @@ local skids = {
 ["prisonlifedoggycrash"] = "skidneutral";
 ["Sonicboy58683"] = "reanim";
 ["doge32136"] = "jjsploit lol";
+["dantdm704"] = "jjsploit normal";
 }
 return skids
