@@ -136,6 +136,7 @@ local skids = {
 ["Sonicboy58683"] = "reanim";
 ["doge32136"] = "jjsploit lol";
 ["dantdm704"] = "jjsploit normal";
-["Tousenek"] = "half ass jjsploit shit"]
+["Tousenek"] = "half ass jjsploit shit";
+["IAmBrainDe4d"] = "bang script speed and one punch";
 }
 return skids
