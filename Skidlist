@@ -147,5 +147,8 @@ local skids = {
 ["khanas08"] = "patched gunmods, skid neutral";
 ["BarneyDaBear"] = "skiddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddy";
 ["HECCrr"] = "pb";
+["ArmanBloxTude2"] = "Prevail X";
+["AzralDev"] = "neutral kid";
+["Carrie_MarkPS"] = "re-anim";
 }
 return skids
