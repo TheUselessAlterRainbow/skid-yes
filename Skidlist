@@ -159,5 +159,8 @@ local skids = {
 ["kibo20035"] = "speed";
 ["TheHector_195"] = "jjsploit";
 ["altaccountfro"] = "speed and once punch";
+["Crainno"] = "baseball bat";
+["MonsieurTaja"] = "to kill all";
+["thebossofroblox_101"] = "fd scripts on fe games, pd, 8, jjsploit";
 }
 return skids
