@@ -158,5 +158,6 @@ local skids = {
 ["maelepro77"] = "tp kill all";
 ["kibo20035"] = "speed";
 ["TheHector_195"] = "jjsploit";
+["altaccountfro"] = "speed and once punch";
 }
 return skids
