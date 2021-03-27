@@ -152,5 +152,9 @@ local skids = {
 ["Carrie_MarkPS"] = "re-anim";
 ["ayePriceyone"] = "scorp";
 ["SR_GAMEREDU"] = "jjsploit and prisondestroyer + reviz annoy command and killaura";
+["ayePriceyone"] = "scorp";
+["SR_GAMEREDU"] = "jjsploit and prisondestroyer";
+["anifbsafnakslcfbskut"] = "jjsploit";
+["maelepro77"] = "tp kill all";
 }
 return skids
