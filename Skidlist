@@ -156,5 +156,6 @@ local skids = {
 ["SR_GAMEREDU"] = "jjsploit and prisondestroyer";
 ["anifbsafnakslcfbskut"] = "jjsploit";
 ["maelepro77"] = "tp kill all";
+["kibo20035"] = "speed";
 }
 return skids
