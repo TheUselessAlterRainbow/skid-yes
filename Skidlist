@@ -164,5 +164,7 @@ local skids = {
 ["thebossofroblox_101"] = "fd scripts on fe games, pd, 8, jjsploit";
 ["younger286"] = "one punch + speed";
 ["Lancehances_Return"] = "noclip";
+["albazarfaid"] = "degenerate simp, auto-res";
+["the_MrCringleySquad"] = "skidpion";
 }
 return skids
