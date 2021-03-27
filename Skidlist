@@ -151,5 +151,6 @@ local skids = {
 ["AzralDev"] = "neutral kid";
 ["Carrie_MarkPS"] = "re-anim";
 ["ayePriceyone"] = "scorp";
+["SR_GAMEREDU"] = "jjsploit and prisondestroyer + reviz annoy command and killaura";
 }
 return skids
