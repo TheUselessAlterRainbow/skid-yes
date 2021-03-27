@@ -166,5 +166,6 @@ local skids = {
 ["Lancehances_Return"] = "noclip";
 ["albazarfaid"] = "degenerate simp, auto-res";
 ["the_MrCringleySquad"] = "skidpion";
+["YovreAdopted"] = "pd";
 }
 return skids
