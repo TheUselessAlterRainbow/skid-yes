@@ -162,5 +162,7 @@ local skids = {
 ["Crainno"] = "baseball bat";
 ["MonsieurTaja"] = "to kill all";
 ["thebossofroblox_101"] = "fd scripts on fe games, pd, 8, jjsploit";
+["younger286"] = "one punch + speed";
+["Lancehances_Return"] = "noclip";
 }
 return skids
