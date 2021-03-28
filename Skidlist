@@ -175,5 +175,6 @@ local skids = {
 ["TheRealCar_mashercar"] = "jjsploit, reviz admin follow and retarded";
 ["Noob14141414141412"] = "horny on Lego game (fe bang)";
 ["Kexixnn"] = "threatening to crash the server";
+["XxgreatboyxX1"] = "noclip and reviz admin";
 }
 return skids
