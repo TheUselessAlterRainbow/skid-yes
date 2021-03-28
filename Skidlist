@@ -174,5 +174,6 @@ local skids = {
 ["eman1turbo"] = "aimbot gun spawning and custom team tag";
 ["TheRealCar_mashercar"] = "jjsploit, reviz admin follow and retarded";
 ["Noob14141414141412"] = "horny on Lego game (fe bang)";
+["Kexixnn"] = "threatening to crash the server";
 }
 return skids
