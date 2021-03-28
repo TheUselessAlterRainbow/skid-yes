@@ -168,5 +168,6 @@ local skids = {
 ["the_MrCringleySquad"] = "skidpion";
 ["YovreAdopted"] = "pd";
 ["BoazBoii"] = "superpunch, respawn";
+["MrForbiddenName1"] = "jjsploit troll  (imagine putting yourself on skid list)";
 }
 return skids
