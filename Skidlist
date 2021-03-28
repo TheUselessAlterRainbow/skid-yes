@@ -177,5 +177,6 @@ local skids = {
 ["Kexixnn"] = "threatening to crash the server";
 ["XxgreatboyxX1"] = "noclip and reviz admin";
 ["Exelplaye123"] = "flying";
+["PokerFaceuh"] = "custom team tazg";
 }
 return skids
