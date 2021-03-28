@@ -169,5 +169,6 @@ local skids = {
 ["YovreAdopted"] = "pd";
 ["BoazBoii"] = "superpunch, respawn";
 ["MrForbiddenName1"] = "jjsploit troll  (imagine putting yourself on skid list)";
+["12poi9"] = "Some random shitty admin, and a shitty bring, and a shitty anti-crim";
 }
 return skids
