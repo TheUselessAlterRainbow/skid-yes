@@ -172,5 +172,6 @@ local skids = {
 ["12poi9"] = "Some random shitty admin, and a shitty bring, and a shitty anti-crim";
 ["IIllIIlIIlllIIlIlIII"] = "funny barcode man with funny barcode scrip and loopbring";
 ["guest945343"] = "regular neutral";
+["nikola3222324"] = "reviz admin flying";
 }
 return skids
