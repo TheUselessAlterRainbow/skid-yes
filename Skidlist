@@ -171,5 +171,8 @@ local skids = {
 ["MrForbiddenName1"] = "jjsploit troll  (imagine putting yourself on skid list)";
 ["12poi9"] = "Some random shitty admin, and a shitty bring, and a shitty anti-crim";
 ["nikola3222324"] = "reviz admin flying";
+["eman1turbo"] = "aimbot gun spawning and custom team tag";
+["TheRealCar_mashercar"] = "jjsploit, reviz admin follow and retarded";
+["Noob14141414141412"] = "horny on Lego game (fe bang)";
 }
 return skids
