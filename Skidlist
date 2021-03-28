@@ -170,5 +170,7 @@ local skids = {
 ["BoazBoii"] = "superpunch, respawn";
 ["MrForbiddenName1"] = "jjsploit troll  (imagine putting yourself on skid list)";
 ["12poi9"] = "Some random shitty admin, and a shitty bring, and a shitty anti-crim";
+["IIllIIlIIlllIIlIlIII"] = "funny barcode man with funny barcode scrip and loopbring";
+["guest945343"] = "regular neutral";
 }
 return skids
