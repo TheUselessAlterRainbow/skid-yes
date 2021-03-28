@@ -178,5 +178,6 @@ local skids = {
 ["XxgreatboyxX1"] = "noclip and reviz admin";
 ["Exelplaye123"] = "flying";
 ["PokerFaceuh"] = "custom team tazg";
+["thehack34h"] = "crim all, fly";
 }
 return skids
