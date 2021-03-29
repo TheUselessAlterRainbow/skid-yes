@@ -187,5 +187,7 @@ local skids = {
 ["Konsti123451"] = "noclip and btools are funny";
 ["josemarip15"] = "neutral + killaura";
 ["vSheLoveTY"] = "custom team";
+["Fruityloopyyyyyy"] = "prevail";
+["Blox_1Pop"] = "spin fling go boom";
 }
 return skids
