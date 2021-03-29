@@ -183,5 +183,8 @@ local skids = {
 ["master30397"] = "invis";
 ["Knight3380"] = "kill aura and reviz admin";
 ["noobtheprohack"] = "reviz admin + killaura";
+["Huawei_30Pro"] = "jjsploit go boom";
+["Konsti123451"] = "noclip and btools are funny";
+["josemarip15"] = "neutral + killaura";
 }
 return skids
