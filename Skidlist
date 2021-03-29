@@ -186,5 +186,6 @@ local skids = {
 ["Huawei_30Pro"] = "jjsploit go boom";
 ["Konsti123451"] = "noclip and btools are funny";
 ["josemarip15"] = "neutral + killaura";
+["vSheLoveTY"] = "custom team";
 }
 return skids
