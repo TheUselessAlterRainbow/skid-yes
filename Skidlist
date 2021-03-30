@@ -189,5 +189,6 @@ local skids = {
 ["vSheLoveTY"] = "custom team";
 ["Fruityloopyyyyyy"] = "prevail";
 ["Blox_1Pop"] = "spin fling go boom";
+["t1_eh"] = "snake admin";
 }
 return skids
