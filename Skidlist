@@ -202,5 +202,6 @@ local skids = {
 ["ImV3RY"] = "prevail";
 ["OfficialFrostiez"] = "jjsploit go boom";
 ["guillermoantmaxx12"] = "reanimation is funny";
+["not_drysty"] = "reanimation okbye";
 }
 return skids
