@@ -190,5 +190,15 @@ local skids = {
 ["Fruityloopyyyyyy"] = "prevail";
 ["Blox_1Pop"] = "spin fling go boom";
 ["t1_eh"] = "snake admin";
+["Flamegaming1234567"] = "one punch";
+["TROLL_FACEWGF"] = "speed";
+["KurtaxX"] = "jumppower, patched gunmods";
+["5i_xr"] = "tried to 'spike' me";
+["linear_gamer"] = "spin fling, prisonbreaker";
+["chacethont"] = "snake admin (scorpion paste) 'dev'";
+["roblox_coolboy500"] = "spin fling";
+["ghawdoadadad"] = "killaura go boom";
+["Bl0tzy"] = "one punch";
+["ImV3RY"] = "prevail";
 }
 return skids
