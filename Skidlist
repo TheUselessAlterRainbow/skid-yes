@@ -200,5 +200,6 @@ local skids = {
 ["ghawdoadadad"] = "killaura go boom";
 ["Bl0tzy"] = "one punch";
 ["ImV3RY"] = "prevail";
+["OfficialFrostiez"] = "jjsploit go boom";
 }
 return skids
