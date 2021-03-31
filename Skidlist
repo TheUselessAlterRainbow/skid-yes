@@ -213,5 +213,7 @@ local skids = {
 ["dondondon46YT"] = "killaura and fly";
 ["rubrub2217"] = "jjsploit";
 ["Gaming_life28"] = "custom team tag and flying";
+["IMPIZZA_ANDIHATEYOU"] = "fling script";
+["seyon1200"] = "teleporting and instand respawn";
 }
 return skids
