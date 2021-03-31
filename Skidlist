@@ -206,5 +206,12 @@ local skids = {
 ["1ImYourDaddy1"] = "neutral yes";
 ["kingboss3704"] = "fly monkey";
 ["Thicjc5speeds"] = "shitting on exploiters yet yes neutral and gunspawn :troll:";
+["Tidsajd"] = "speed and one punch";
+["sj0u"] = "speed funny";
+["birdarefree09"] = "noclip";
+["IxIxIxIxIxIxIxIxIxIg"] = "funny fly";
+["dondondon46YT"] = "killaura and fly";
+["rubrub2217"] = "jjsploit";
+["Gaming_life28"] = "custom team tag and flying";
 }
 return skids
