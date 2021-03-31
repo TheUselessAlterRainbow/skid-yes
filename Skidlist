@@ -204,5 +204,7 @@ local skids = {
 ["guillermoantmaxx12"] = "reanimation is funny";
 ["not_drysty"] = "reanimation okbye";
 ["1ImYourDaddy1"] = "neutral yes";
+["kingboss3704"] = "fly monkey";
+["Thicjc5speeds"] = "shitting on exploiters yet yes neutral and gunspawn :troll:";
 }
 return skids
