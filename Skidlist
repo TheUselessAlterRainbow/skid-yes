@@ -215,5 +215,8 @@ local skids = {
 ["Gaming_life28"] = "custom team tag and flying";
 ["IMPIZZA_ANDIHATEYOU"] = "fling script";
 ["seyon1200"] = "teleporting and instand respawn";
+["waffleloc"] = "skidpion";
+["Brandonthepro500"] = "skidpion";
+["KEVIN_7u7lol"] = "custom team";
 }
 return skids
