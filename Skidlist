@@ -218,5 +218,9 @@ local skids = {
 ["waffleloc"] = "skidpion";
 ["Brandonthepro500"] = "skidpion";
 ["KEVIN_7u7lol"] = "custom team";
+["luvastra"] = "prevail x";
+["bobhahwe"] = "fly";
+["hackbychader"] = "one punch fun";
+["txrashi"] = "custom team";
 }
 return skids
