@@ -249,5 +249,16 @@ local skids = {
 ["gergegfsefefgw"] = "neutral";
 ["POSTITNOTE666"] = "noclip, weird fling, gunmods";
 ["kenya445"] = "speed + jump height";
+["obviously_smart"] = "funny";
+["Erat1cz"] = "loop fe god";
+["noobbro59"] = "kill aura";
+["robert40354"] = "noclipping";
+["MODERATEEURRE"] = "funny fly man";
+["Denis012278"] = "re-anim thing";
+["xwolfyGR"] = "kill aura";
+["BuildForPlay"] = "skidded scorpion";
+["PPLKsdS"] = "fling whatever";
+["FriendlyBaconMan653"] = "fly is funny man";
+["happystrawberry21oow"] = "superpunch and gunmods";
 }
 return skids
