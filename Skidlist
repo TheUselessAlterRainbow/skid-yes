@@ -233,5 +233,20 @@ local skids = {
 ["1xlua"] = "skidpion supporter";
 ["Diglet2011"] = "skidpion?";
 ["Bombastic_Guy1"] = "pd";
+["DarknessFallsOnAll"] = "fling";
+["0Yeatss"] = "noclip";
+["waffleloc"] = "skidpion";
+["candytommie"] = "fly";
+["yelloerileyx5"] = "oneshot weapon";
+["DaHoodEF"] = "reanim";
+["Hack_hell66"] = "killaura is funny";
+["Odinasga"] = "speed";
+["rakari176_5"] = "kill aura";
+["emilocho09"] = "noclip";
+["football12king"] = "nihilize";
+["PLG_secret78"] = "nihilize";
+["RustyA1m"] = "spam-arrest";
+["MUSTAFE4343"] = "auto-res";
+["gergegfsefefgw"] = "neutral";
 }
 return skids
