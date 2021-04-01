@@ -222,5 +222,16 @@ local skids = {
 ["bobhahwe"] = "fly";
 ["hackbychader"] = "one punch fun";
 ["txrashi"] = "custom team";
+["yeetdeletex1"] = "fly and gunspawn";
+["okvgn"] = "reanimation";
+["DEEPDRIL78K"] = "jjsploit";
+["AlexVonManstein"] = "skidpion";
+["zucbuui"] = "speed";
+["JoshZuaa"] = "noclip";
+["KongVibes"] = "skidpion";
+["dhne400"] = "skiddy auto-res";
+["1xlua"] = "skidpion supporter";
+["Diglet2011"] = "skidpion?";
+["Bombastic_Guy1"] = "pd";
 }
 return skids
