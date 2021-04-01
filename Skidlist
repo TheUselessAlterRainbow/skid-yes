@@ -247,5 +247,7 @@ local skids = {
 ["RustyA1m"] = "spam-arrest";
 ["MUSTAFE4343"] = "auto-res";
 ["gergegfsefefgw"] = "neutral";
+["POSTITNOTE666"] = "noclip, weird fling, gunmods";
+["kenya445"] = "speed + jump height";
 }
 return skids
