@@ -260,5 +260,18 @@ local skids = {
 ["PPLKsdS"] = "fling whatever";
 ["FriendlyBaconMan653"] = "fly is funny man";
 ["happystrawberry21oow"] = "superpunch and gunmods";
+["scorpain"] = "scorpion coder?";
+["GUEST10556534"] = "flying";
+["wheyprotein23"] = "speed & being retarded";
+["linear_gamer"] = "noclip";
+["SugemiPula3"] = "flying";
+["BlobyBad"] = "teleporting, superpunch/killaura & noclipping";
+["godzillavsroblox2021"] = "neutral";
+["Splttt"] = "prevail";
+["newHackAccountEXE"] = "retarded scorpion user";
+["wimpyshrimpymcdoodle"] = "funny speedfly";
+["Taikaviitta15oof"] = "jjsploit";
+["ksisieii"] = "speed and ray gunmods";
+["Fantasma_1212"] = "speedster";
 }
 return skids
