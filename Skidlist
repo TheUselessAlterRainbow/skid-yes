@@ -332,5 +332,7 @@ local skids = {
 ["naek_019"] = "dumb stuff";
 ["mael_019"] = "dumb stuff";
 ["crystalta003"] = "dumb stuff";
+["scarxlord"] = "leaekd scorpion";
+["Fvme"] = "trying to crash but failing";
 }
 return skids
