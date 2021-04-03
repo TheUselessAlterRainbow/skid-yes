@@ -334,5 +334,13 @@ local skids = {
 ["crystalta003"] = "dumb stuff";
 ["scarxlord"] = "leaekd scorpion";
 ["Fvme"] = "trying to crash but failing";
+["MrBigBasketsVR"] = "scoron/SelfCrash/TrashTalk/FailAbotion";
+["idkimtryingkk"] = "killaura neutral";
+["pigsgololYT"] = "killaura";
+["AutoCheat13"] = "neutral team, team swap, noclip and prepatch kill all that doesnt work";
+["newarkpizza2"] = "tp loopkill onepunch";
+["tregamered"] = "neutral ;fly probably jake";
+["sh00xjalil0008"] = "same as tregamered";
+["young_bg7"] = "crash server!1!!";
 }
 return skids
