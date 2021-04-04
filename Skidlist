@@ -342,5 +342,12 @@ local skids = {
 ["tregamered"] = "neutral ;fly probably jake";
 ["sh00xjalil0008"] = "same as tregamered";
 ["young_bg7"] = "crash server!1!!";
+["skabdabdeee"] = "flinging people";
+["noobyluvstohax"] = "superpunching over and over";
+["coolguy_thebestone"] = "jjsploit";
+["SOSI_JEPPY"] = "invis fling";
+["N00bzrc0l"] = "furry with reanimation";
+["Hackengine666"] = "neutral and fly";
+["Jonas_Roblox1635"] = "jj sploit";
 }
 return skids
