@@ -349,5 +349,9 @@ local skids = {
 ["N00bzrc0l"] = "furry with reanimation";
 ["Hackengine666"] = "neutral and fly";
 ["Jonas_Roblox1635"] = "jj sploit";
+["coconuts213"] = "spamming shootevent";
+["cece_bandzz"] = "being annoying gunspawner and tryharding in armory";
+["painpursuerr"] = "killaura and abusing spunch";
+["marhmellouqq12"] = "using killaura+gunspawn+spunch in nexus";
 }
 return skids
