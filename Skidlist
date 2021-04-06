@@ -353,5 +353,12 @@ local skids = {
 ["cece_bandzz"] = "being annoying gunspawner and tryharding in armory";
 ["painpursuerr"] = "killaura and abusing spunch";
 ["marhmellouqq12"] = "using killaura+gunspawn+spunch in nexus";
+["R_6hi9g"] = "killaura, ws & noclip";
+["0iTrsx"] = "cringe reanim";
+["YousefLink"] = "inf yield";
+["DREAMxCo1"] = "jjsploit";
+["JJSPLOIT_HACK21"] = "jj sploit";
+["CenjrX"] = "speed";
+["icelord1230"] = "noon timeout";
 }
 return skids
