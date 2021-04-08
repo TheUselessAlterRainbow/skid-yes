@@ -376,5 +376,24 @@ local skids = {
 ["BuildForPlay"] = "gun spawning and loop killing";
 ["dragonfightImahaker"] = "flying kill aura and gun spawning";
 ["justindeutscher"] = "killaura camping at armory";
+["slowboi106soul"] = "tried to timeout the server many times and failed";
+["hackboycool13"] = "looparrest and gun spawning";
+["necatisej"] = "teleporting and fast guns";
+["360noscopebumurdad"] = "speed script and using krnl";
+["wggboy786"] = "noclip and invisible script";
+["gg123456789102"] = "speed script";
+["DailyServerCrasher"] = "broken server crash";
+["SkinnyArielbrocarr"] = "pd";
+["PeanutButterChild1"] = "pd";
+["camarguets2006"] = "paste paste paste";
+["molaaldym"] = "little fatass with some weird ass loop thing";
+["xxhanman"] = "reanim";
+["bahssix"] = ";fly";
+["irvynho2006"] = "pasted scorp";
+["wierdboy29omg4"] = "jjsploit chatspammer think he crashed the server when it was me spam arresting him";
+["MubbZ2"] = "retarded speed";
+["nnamdi900"] = "retard is flying";
+["sinisterkillings"] = "cringe spike";
+["eman1turbo"] = "crashing";
 }
 return skids
