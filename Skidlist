@@ -395,5 +395,9 @@ local skids = {
 ["nnamdi900"] = "retard is flying";
 ["sinisterkillings"] = "cringe spike";
 ["eman1turbo"] = "crashing";
+["United_Warrior123"] = "gun mods + inf yield + invis";
+["1umes"] = "lagging the server and raging like a 11 year old";
+["woafless"] = "criminal all + arrest all";
+["HckMEptoe"] = "teleport kill all";
 }
 return skids
