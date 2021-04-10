@@ -399,5 +399,16 @@ local skids = {
 ["1umes"] = "lagging the server and raging like a 11 year old";
 ["woafless"] = "criminal all + arrest all";
 ["HckMEptoe"] = "teleport kill all";
+["auxuy"] = "skid";
+["chairattroll228"] = "jjsploit speed script";
+["velo23334287"] = "gun spawning and loop kill which doesn't even work lmfao";
+["Thicjc5speeds"] = "using darkmatterx v2, flying and one punch script";
+["ohi_1"] = "noclip and some jump script";
+["XploitPrisionlife"] = "reviz admin";
+["AK47200k"] = "annoying one punch script and instant resapwn";
+["selif8794"] = "flying and spamming kill all";
+["ninjawon134"] = "attempting to loop me";
+["Stealthyninja2315"] = "neutral & tryna loop me";
+["MNSD_Brian"] = "crashing server";
 }
 return skids
