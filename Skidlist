@@ -410,5 +410,10 @@ local skids = {
 ["ninjawon134"] = "attempting to loop me";
 ["Stealthyninja2315"] = "neutral & tryna loop me";
 ["MNSD_Brian"] = "crashing server";
+["UncraftedDNA"] = "flying, noclip & killaura or smt like that";
+["dean0786"] = "speed script and kill aura";
+["SadLiffe"] = "shitty fling script";
+["saberings"] = "failed sa and crash lol loser";
+["gamesgoody"] = "retard spamming kill all";
 }
 return skids
