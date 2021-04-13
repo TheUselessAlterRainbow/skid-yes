@@ -415,5 +415,10 @@ local skids = {
 ["SadLiffe"] = "shitty fling script";
 ["saberings"] = "failed sa and crash lol loser";
 ["gamesgoody"] = "retard spamming kill all";
+["ArandomCreatedName"] = "reanimation is funny yes";
+["AgroDevil"] = "using baseball bat to 'keep the peace' ends up killing randoms";
+["trgfgfdhhwasfghgfhgg"] = "spped script and kill aura";
+["GAVINSPLASH"] = "instant respawn and gun spawning";
+["cherynobles"] = "idek know what script";
 }
 return skids
