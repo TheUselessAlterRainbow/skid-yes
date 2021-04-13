@@ -420,5 +420,6 @@ local skids = {
 ["trgfgfdhhwasfghgfhgg"] = "spped script and kill aura";
 ["GAVINSPLASH"] = "instant respawn and gun spawning";
 ["cherynobles"] = "idek know what script";
+["kidspivartepart"] = "jj sploit";
 }
 return skids
