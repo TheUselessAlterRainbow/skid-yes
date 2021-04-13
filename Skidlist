@@ -424,5 +424,6 @@ local skids = {
 ["Original"] = "teleporting";
 ["PrisionLifeGus"] = "prision breaker";
 ["timmy"] = "1 punch bor!";
+["Spoiiled_Error"] = "spam arresting";
 }
 return skids
