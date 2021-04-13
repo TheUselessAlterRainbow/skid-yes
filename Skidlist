@@ -422,6 +422,7 @@ local skids = {
 ["cherynobles"] = "idek know what script";
 ["kidspivartepart"] = "jj sploit";
 ["Original"] = "teleporting";
-["PrisionLifeGus"] = "prision breaker"; 
+["PrisionLifeGus"] = "prision breaker";
+["timmy"] = "1 punch bor!";
 }
 return skids
