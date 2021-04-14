@@ -430,5 +430,6 @@ local skids = {
 ["heykk649"] = "jjsploit fly noclip speed gmods";
 ["0mlJaylen"] = "jewjewsploit and retarded";
 ["Guest3285803"] = "jjsploit buttons";
+["ArmanBloxTube2"] = "prevail x";
 }
 return skids
