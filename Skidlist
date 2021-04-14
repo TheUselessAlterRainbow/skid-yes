@@ -425,5 +425,10 @@ local skids = {
 ["PrisionLifeGus"] = "prision breaker";
 ["timmy"] = "1 punch bor!";
 ["Spoiiled_Error"] = "spam arresting";
+["derobloxMANindebus"] = "kill aura and tryna crash the server which failed lmfao";
+["haxer56357"] = "loop kill";
+["heykk649"] = "jjsploit fly noclip speed gmods";
+["0mlJaylen"] = "jewjewsploit and retarded";
+["Guest3285803"] = "jjsploit buttons";
 }
 return skids
