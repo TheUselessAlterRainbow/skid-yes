@@ -465,5 +465,7 @@ local skids = {
 ["EpicGamer55223"] = "reanimation";
 ["RealSlipzy"] = "patched gunmods, speed";
 ["GIUSEPPE_6399"] = "flying, speed, patched gunmods";
+["Jungerwein559"] = "jj sploit chat troll";
+["romanrougee"] = "probs H4X";
 }
 return skids
