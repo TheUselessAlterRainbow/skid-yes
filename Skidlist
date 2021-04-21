@@ -467,5 +467,11 @@ local skids = {
 ["GIUSEPPE_6399"] = "flying, speed, patched gunmods";
 ["Jungerwein559"] = "jj sploit chat troll";
 ["romanrougee"] = "probs H4X";
+["TheSon99"] = "lagging server uwul";
+["UserQain"] = "killaura + speedl";
+["moxxqt"] = "loop fe godl";
+["Avilitys"] = "loop fe god + armor spaml";
+["PotatoMan5511"] = "jjsploitl";
+["dollhouzze45"] = "looping randomsl";
 }
 return skids
