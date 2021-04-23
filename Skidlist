@@ -473,5 +473,9 @@ local skids = {
 ["Avilitys"] = "loop fe god + armor spam";
 ["PotatoMan5511"] = "jjsploit";
 ["dollhouzze45"] = "looping randoms";
+["Mushy"] = "jjsploit";
+["23Emirhan23"] = "bitch";
+["ExuelRoyal"] = "jjsploit";
+["SloeDeathOp2"] = "killaura - crashing themselves";
 }
 return skids
