@@ -475,5 +475,9 @@ local skids = {
 ["23Emirhan23"] = "bitch";
 ["ExuelRoyal"] = "jjsploit";
 ["SloeDeathOp2"] = "killaura - crashing themselves";
+["Harold_Pikes"] = "CloVR retard";
+["cond2omaker"] = "killaura, noclip & ws";
+["bxst3dkenxs"] = "trying to loop me";
+["Luna_Secare"] = "reanimation and nuetral kid";
 }
 return skids
