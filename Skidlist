@@ -479,5 +479,15 @@ local skids = {
 ["cond2omaker"] = "killaura, noclip & ws";
 ["bxst3dkenxs"] = "trying to loop me";
 ["Luna_Secare"] = "reanimation and nuetral kid";
+["shadow123437"] = "some random ass tp killaura";
+["FemboiKami"] = "reanimation and prob kill all";
+["KaZr0k"] = "fast punch and kill all";
+["Ivrynho2006"] = "scorp admin paste and some shitty armor spam lag";
+["Admin_Graphic"] = " 'you want to ban?' -uses revi";
+["JOJOOST0"] = "speed + onepunc";
+["winnie662"] = "using some shitty script and failed to crash me with sa";
+["bokolii"] = "jjsploit speed running";
+["UrMinsDie"] = "shitty annoy script";
+["GuestReborn404"] = "some gay animation idek";
 }
 return skids
