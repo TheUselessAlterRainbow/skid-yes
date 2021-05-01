@@ -489,5 +489,6 @@ local skids = {
 ["bokolii"] = "jjsploit speed running";
 ["UrMinsDie"] = "shitty annoy script";
 ["GuestReborn404"] = "some gay animation idek";
+["YONUTS666"] = "killaura (crashing themselves with it";
 }
 return skids
