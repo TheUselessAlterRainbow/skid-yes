@@ -491,5 +491,8 @@ local skids = {
 ["GuestReborn404"] = "some gay animation idek";
 ["YONUTS666"] = "killaura (crashing themselves with it";
 ["jug_revenge"] = "lagging themselves with happymod";
+["J0eBaiden"] = "onepunch, patched gunmods, neutral";
+["TayrowPro"] = "onepunch 'my hax better' ";
+["maxmayfield00"] = "spamarresting random individuals";
 }
 return skids
