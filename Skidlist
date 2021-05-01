@@ -495,5 +495,6 @@ local skids = {
 ["TayrowPro"] = "onepunch 'my hax better' ";
 ["maxmayfield00"] = "spamarresting random individuals";
 ["GeneralThrones"] = "revis";
+["fvagz"] = "loopbring + arrest aura";
 }
 return skids
