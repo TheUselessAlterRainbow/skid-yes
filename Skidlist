@@ -490,5 +490,6 @@ local skids = {
 ["UrMinsDie"] = "shitty annoy script";
 ["GuestReborn404"] = "some gay animation idek";
 ["YONUTS666"] = "killaura (crashing themselves with it";
+["jug_revenge"] = "lagging themselves with happymod";
 }
 return skids
