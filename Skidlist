@@ -496,5 +496,10 @@ local skids = {
 ["maxmayfield00"] = "spamarresting random individuals";
 ["GeneralThrones"] = "revis";
 ["fvagz"] = "loopbring + arrest aura";
+["GET0UTOFMYHEADGETOUT"] = "killaura";
+["DranghetaSpooks"] = "terrible attempt at bringing";
+["IID1GITALII"] = "reanimation is funny as fuck";
+["Blackhunta1"] = "fling";
+["DuckyOnDatQuak"] = "spin fling";
 }
 return skids
