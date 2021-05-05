@@ -501,5 +501,18 @@ local skids = {
 ["IID1GITALII"] = "reanimation is funny as fuck";
 ["Blackhunta1"] = "fling";
 ["DuckyOnDatQuak"] = "spin fling";
+["Blackhunta1"] = "fling";
+["DuckyOnDatQuak"] = "spin fling";
+["RiceFarmerRF"] = "Vega X user,  non fe kick script, crashed after 20 seconds of trying to crash me";
+["21kJadxn"] = "some trash script with aimbot after he got mad after I killedhim once lmaoo";
+["linkmoen"] = "noclipping gunmodding and neutral";
+["Neutral"] = "and gunmodding also noclipping";
+["grafiteb"] = "pd";
+["Nheggaman4000"] = "inf yield";
+["HACKnEXPLOT_exe"] = "leaked scorpion?";
+["ArandomCreatedName"] = "re-animate and apparently using " server side" ";
+["OiixxBacon"] = "weird admin script";
+["antonio_pro840"] = "attempting to void people and failing";
+["1c1x1c1x1x"] = "prevail 'lol ur script is trash' ";
 }
 return skids
