@@ -525,5 +525,6 @@ local skids = {
 ["bdkjasmnsadad"] = "patched kill all";
 ["SlovakmarkFlegy"] = "freesploit laggy speed";
 ["Childe_Beater"] = "prevail";
+["2quick4thunder"] = "just got whitelisted *crashed*";
 }
 return skids
