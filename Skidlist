@@ -514,5 +514,16 @@ local skids = {
 ["OiixxBacon"] = "weird admin script";
 ["antonio_pro840"] = "attempting to void people and failing";
 ["1c1x1c1x1x"] = "prevail 'lol ur script is trash' ";
+["BurgerButWithSugar"] = "fly killaura";
+["IchBinNeKartoffelLOL"] = "noclip";
+["xdeqley"] = "using patched minigun to lag server, going under map to kill,and one punching";
+["jccboii"] = "invis";
+["hilelimelih"] = "inf yield";
+["slumppedjayden"] = "going under the map to kill people";
+["qufioixdev"] = "using kill all prob from the leaked scorp";
+["InfiniteVirxus"] = "reanim";
+["bdkjasmnsadad"] = "patched kill all";
+["SlovakmarkFlegy"] = "freesploit laggy speed";
+["Childe_Beater"] = "prevail";
 }
 return skids
