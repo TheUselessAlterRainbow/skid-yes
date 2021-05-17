@@ -525,5 +525,15 @@ local skids = {
 ["SlovakmarkFlegy"] = "freesploit laggy speed";
 ["Childe_Beater"] = "prevail";
 ["2quick4thunder"] = "just got whitelisted *crashed*";
+["riggedshowr"] = "http://sammy.gives-me.top/";
+["MikeStoleMyLegr"] = "man fr tried to pull a flash";
+["BlockCuber"] = "one punch jj";
+["XxXjuice012r"] = "poor attempt to crash me";
+["jajaboyor"] = "got mad i fucked him up with sa and started loopkilling everyone";
+["Sieger"] = "jjsploit skidding";
+["EpicYoutuber_2019r"] = "some shitty scorp paste";
+["lIMrEXTREMEIlr"] = "reanimation scorpion fun";
+["Ok782121r"] = "reanim + prevail";
+["QufioixDev"] = "waiting for reason";
 }
 return skids
