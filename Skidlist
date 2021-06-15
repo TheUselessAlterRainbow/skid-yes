@@ -559,5 +559,9 @@ local skids = {
 ["Bouncyanimetviddie"] = "killaura + onepunch";
 ["isauddin12345"] = "jjsploit fly + gunspawn + noclip";
 ["gjp974"] = "scorpion";
+["sharaaz786"] = "using jj's dab feature whilst flying and using no legs and one punch I think?";
+["ThePlantananta"] = "speed patched godmode and onepunch";
+["ItssFlix"] = "reanimation and shitty net";
+["contrvex"] = "scorpion";
 }
 return skids
