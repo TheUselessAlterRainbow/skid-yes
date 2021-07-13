@@ -598,8 +598,8 @@ local skids = {
 ["orangjuice1357"] = "claims to be a scripter but can't tell me what local means";
 ["I_AMSOMUCHCOOL"] = "slayers admin";
 ["XWATERXCHANGERX012"] = "weird no lip thing";
-["goddemod"] = "kill aura"];
-["gamerfight820"] = "scorpion"];
+["goddemod"] = "kill aura";
+["gamerfight820"] = "scorpion";
 ["reallycoolabbas"] = "absolutely hilarious lagserver";
 }
 return skids
