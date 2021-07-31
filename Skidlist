@@ -601,5 +601,23 @@ local skids = {
 ["goddemod"] = "kill aura";
 ["gamerfight820"] = "scorpion";
 ["reallycoolabbas"] = "absolutely hilarious lagserver";
+["emiliovoti"] = "jjsploit go brrrrrr speed, fly, inf jump";
+["Blacknightofficial"] = "onepunch ok bouddy";
+["ll16X"] = "for spin fling";
+["mermoude_007"] = "happy mod";
+["Tweeshoe"] = "noclip";
+["yesjdjhfh"] = speed, killaura, kill all";
+["Xhabeka"] = "loopkill all";
+["Horror_face44"] = "jjsploit go brrrrrrrrrrrrrr";
+["Cooldude5323454"] = "patched ass gunmods";
+["Imposter673677john"] = "patched useless godmode or whatever the fuck that is";
+["AmirTRB"] = "my hacks are better than yours + mic up!1!!";
+["sagenevs"] = "fatehube";
+["REDACTED_SCORPION"] = " fling script";
+["giorgigigi1234"] = "localplayer admin made it myself";
+["Urm0ue"] = "tp killall, patched godmode";
+["t11ya"] = "onepunch";
+["You_StashLOL"] = "gunspawn + toxic and loopkill all cuz looping 1 person is too difficult";
+["DaBeatz99"] = "prevail";
 }
 return skids
